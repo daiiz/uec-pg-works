@@ -5,5 +5,5 @@ uec-pg-works
 
 | ソースコードへのリンク | 掲載日 | 備考 |
 |:-----------|-------------|-------------|
-|[電通大キャンパス・ルートガイド »](https://github.com/daiz713/uec-campus-route-guide)|2014/07/02|１年次のキャリア教育演習にて開発を担当した。HTML, CSS, JavaScript で書いています。|
+|[電通大キャンパス・ルートガイド »](https://github.com/daiz713/uec-campus-route-guide)|2014/07/02|１年次のキャリア教育演習にて開発を担当しました。HTML, CSS, JavaScript で書いています。|
 |IP演習 RSA暗号 »||2014/07/03 以降に掲載予定|
