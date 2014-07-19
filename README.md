@@ -9,4 +9,4 @@ uec-pg-works
 |[IP演習 RSA暗号 （必修） »](https://gist.github.com/daiz713/9455a69ea61df0e683dc)|2014/07/17|C言語|
 |[IP演習 RSA暗号 （挑戦） »](https://gist.github.com/daiz713/56907b5294dbde871830)|2014/07/17|JavaScript|
 |[計算機通論 »](https://gist.github.com/daiz713/a55c814e9fbbacad4348) | 2014/07/06 | 自習用に書いたMIPSプログラムです。[PCSpim](http://pages.cs.wisc.edu/~larus/spim.html)で動作確認できたもののみをまとめています。|
-|[計算機通論 レポート2](https://gist.github.com/daiz713/ca37fa1765ad3054559e) »| 2014/07/18 以降に掲載予定| レジスタのビット長を調べるMIPSプログラム |
+|[計算機通論 レポート2 »](https://gist.github.com/daiz713/ca37fa1765ad3054559e)| 2014/07/20 | レジスタのビット長を調べるMIPSプログラム |
